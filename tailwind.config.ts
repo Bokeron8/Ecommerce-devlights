@@ -13,6 +13,9 @@ const config: Config = {
         foreground: "var(--foreground)",
       },
     },
+    fontFamily: {
+      montserrat: ["var(--font-montserrat)"],
+    },
   },
   plugins: [],
 };
